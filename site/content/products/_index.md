@@ -1,22 +1,23 @@
 ---
-title: Our Coffee
-type: products
+title: Bovenstraat 75 - 77 - 79
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Studio's at Bovenstraat
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Bovenstraat is located in a 1900's old mansion in the church neigbourhood of
+  Oud-IJsselmonde.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: |-
+        Studio 75.1
+
+        Floor: 0
+        SQM: 222
+        WC: private
+        Shower: private
+        Kooking: electric, small fridge
+        Specifics: Street level, window borders sidewalk
+        Located near front door, so less suited for light sleepers.
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -37,7 +38,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Our Studio's
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
@@ -98,5 +99,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
